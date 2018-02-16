@@ -1,2 +1,2 @@
 # hamode-am.github.io
-collection of kodi arabic addons imported from hamode
+collection of kodi addons imported from hamode
